@@ -1,0 +1,17 @@
+配置SPI1
+
+NSS	----->	PA4
+CLK	----->	PA5
+MISO	----->	PA6
+MOSI	----->	PA7
+
+
+BUSY1	----->	PC5
+REST1	----->	PB0
+
+
+UART2 T	----->	PA2
+UART2 R	----->	PA3
+
+杜邦线接
+PB4	----->	SX1280任意DIOx
